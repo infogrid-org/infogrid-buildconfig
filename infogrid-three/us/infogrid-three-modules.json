@@ -7,8 +7,8 @@
         "x86_64"
     ],
 
-    "packages" : [
-        "undertow-modules-java",
-        "log4j-java"
-    ]
+    "packages" : {
+        "undertow-modules-java" : {},
+        "log4j-java" : {}
+    }
 }
