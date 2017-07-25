@@ -1,0 +1,14 @@
+{
+    "url"    : "https://github.com/infogrid-org/infogrid-three-modules",
+    "type"   : "git",
+    "branch" : "master",
+
+    "archs" : [
+        "x86_64"
+    ],
+
+    "packages" : [
+        "undertow-modules-java",
+        "log4j-java"
+    ]
+}
