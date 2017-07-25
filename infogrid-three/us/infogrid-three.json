@@ -1,0 +1,23 @@
+{
+    "url"    : "https://github.com/infogrid-org/infogrid-three",
+    "type"   : "git",
+    "branch" : "master",
+
+    "archs" : [
+        "x86_64"
+    ],
+
+    "packages" : {
+        "infogrid-three-admin" : {},
+        "infogrid-three-graphdb" : {},
+        "infogrid-three-graphdb-grid" : {},
+        "infogrid-three-model-library" : {},
+        "infogrid-three-probe" : {},
+        "infogrid-three-stores" : {},
+        "infogrid-three-tools" : {},
+        "infogrid-three-utils" : {},
+        "infogrid-three-web" : {},
+        "infogrid-three-web-undertow" : {}
+    }
+}
+

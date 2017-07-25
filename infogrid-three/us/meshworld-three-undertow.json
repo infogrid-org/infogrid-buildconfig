@@ -1,0 +1,13 @@
+{
+    "url"    : "https://github.com/infogrid-org/meshworld-three-undertow",
+    "type"   : "git",
+    "branch" : "master",
+
+    "archs" : [
+        "x86_64"
+    ],
+
+    "packages" : [
+        "."
+    ]
+}
